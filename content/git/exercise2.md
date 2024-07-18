@@ -4,49 +4,40 @@ date = 2024-07-18T18:42:06+03:00
 draft = false
 +++
 
-#### Create a folder with the name `assignment1` with the following files:
-
+#### Create a folder with the name "assignment2" with the following files
 ```
 .
 ├── main.c
-├── my_notes.txt
 └── README.md
 ```
-
 ```c
-// main.c should contain the following
+// main.c should include the following
 
 #include <iostream>
 using namespace std;
 
-int main() {
-  cout << "Hello world!" << endl
-  return 0
+int main(){
+  cout << "yet another assignment!" << endl;
+  return 0;
 }
 ```
 
-> Try compiling the code... Something isn't right, isn't it?
+1. Initialize a new repository.
 
-1. Initialize a new repository with a main branch and ensure that the my_notes.txt file is not tracked in the repository.
+2. Create a seperate devv branch, checkout into it and add the following the README.md file:
 
-<details>
-<summary>Hint</summary>
-<div>
-Maybe you should create a .gitignore file.
-</div>
-</details>
+```md
+# Assignment 2
 
-2. Create a seperate devv branch, move into it and apply the necessary changes to the main.c file for it to compile.
+This is a markdown file.
+```
 
-<details>
-<summary>Hint</summary>
-<div>
-This step involves quite a few commands to run after you've applied your changes. are you well versed?
-</div>
-</details>
+3. Go back to the main branch and modify the program to print "I have to solve yet another assignment!"
 
-3. Go back to the main  branch and add the following line of code before the program prints its message:  int x = 47; 
+> Wait, isn't this question almost identical to the first one?
 
-4. Merge the devv branch into the main branch and delete the devv branch.
+4. Rebase the devv branch on the main branch.
 
-> Try running `git log. VSCode and other code editors provide a super useful interface for git, consider trying them out!
+5. Merge the main branch with the devv branch  and delete the devv branch.
+
+> Try sketching each commit in a tree structure, that will surely help you understand the difference. `git log` helps too.
