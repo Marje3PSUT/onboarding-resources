@@ -1,0 +1,7 @@
+#baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Onboarding Resources'
+theme = "no-style-please"
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true

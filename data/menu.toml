@@ -1,0 +1,33 @@
+[[entries]]
+title = "Git"
+
+  [[entries.entries]]
+  title = "Links"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://slides.com/iamo/overflow-git#/21/1/7\" target=\"_blank\">Overflow Git Workshop by M. Mansour.</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://www.atlassian.com/git/tutorials\" target=\"_blank\">Attlassian (BitBucket) Git Tutorial</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://gitimmersion.com/index.html\" target=\"_blank\">Git Immersion</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://docs.github.com/en/get-started/getting-started-with-git\" target=\"_blank\">GitHub's Git Tutorial</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://git-scm.com/book/en/v2\" target=\"_blank\">Git's Official Documentation</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://www.gitkraken.com/learn/git/tutorials\" target=\"_blank\">GitKraken's Videos</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://learngitbranching.js.org/\" target=\"_blank\">Learn Git Branching Game</a>"
+
+
+[[entries.entries]]
+title = "Assignments"
+
+  [entries.entries.post_list]
+  section = "git"
