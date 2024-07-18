@@ -27,7 +27,7 @@ title = "Git"
 
 
 [[entries.entries]]
-title = "Assignments"
+title = "Exercises"
 
   [entries.entries.post_list]
   section = "git"
