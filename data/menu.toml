@@ -26,8 +26,30 @@ title = "Git"
     title = "<a href=\"https://learngitbranching.js.org/\" target=\"_blank\">Learn Git Branching Game</a>"
 
 
-[[entries.entries]]
-title = "Exercises"
+  [[entries.entries]]
+  title = "Exercises"
 
-  [entries.entries.post_list]
-  section = "git"
+    [entries.entries.post_list]
+    section = "git"
+
+
+[[entries]]
+title = "Docker"
+
+  [[entries.entries]]
+  title = "Links"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://www.youtube.com/watch?v=gAkwW2tuIqE\" target=\"_blank\">Learn Docker in 7 Easy Steps - YT</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://docs.docker.com/guides/docker-concepts/building-images/writing-a-dockerfile/\" target=\"_blank\">Writing a Dockerfile</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://docs.docker.com/guides/getting-started/\" target=\"_blank\">Docker Interactive Tutorial</a>"
+
+    [[entries.entries.entries]]
+    title = "<a href=\"https://training.play-with-docker.com/beginner-linux\" target=\"_blank\">Play With Docker</a>"
+
+
+    
